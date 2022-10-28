@@ -1,2 +1,2 @@
 # Uaena-wyy.github.io
-My C++ stduty experience
+My C++ study experience
